@@ -5,7 +5,7 @@ THE TECH HUT TWO
 ## Project Description
 
 In this project, I'm solving the balanced parenthesis problem.
-** Important Note **
+**Important Note**
 A parenthesis is said to be balanced if each left parenthesis has a right parenthesis. 
 The parenthesis should be in pairs; otherwise, these are not balanced. 
 
