@@ -20,12 +20,12 @@ Here, I'm using stack where I'll push each opening parenthesis in the stack and 
 
 3. Select Python Interpreter:
 
-You can choose the interpreter by clicking on the Python version in the bottom status bar 
-To create or modify settings, you can go to File > Preferences > Settings, then search for "Python Path" and set it to the path of your Python interpreter.
+    You can choose the interpreter by clicking on the Python version in the bottom status bar 
+    To create or modify settings, you can go to File > Preferences > Settings, then search for "Python Path" and set it to the path of your Python interpreter.
 
 4. Run Your Python Script:
 
- Right-click on the script in the file explorer and select "Run Python File in Terminal" or by opening a terminal in VS Code and running python index.py.
+    Right-click on the script in the file explorer and select "Run Python File in Terminal" or by opening a terminal in VS Code and running python index.py.
 
 
 5. Output: You will see the output of your Python script in the terminal window at the bottom of the VS Code interface.
